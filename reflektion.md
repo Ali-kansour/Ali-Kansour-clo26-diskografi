@@ -1,31 +1,31 @@
 # Reflektion — Inlämning 1
 
-**Namn:** [Ditt namn]  
-**Datum:** [Datum]
+**Namn:** [Ali Kansour]  
+**Datum:** [2026-10-23]
 
 ---
 
 ## Vad var svårast?
 
-[Skriv här]
+[Det svåraste jag upplevde var inte själva koderna det var att koppla ihop dem med exempel at den ena låten ska tillhöra det ena albumet. Sen var det delvis koderna i vilken ordning dem ska stå.]
 
 ---
 
 ## Vad lärde du dig?
 
-[Skriv här]
+[Jag lärde mig bakgrunden med databaser hur dem hör ihop, hur man lägger ihop dem]
 
 ---
 
 ## Hur använde du SQL i praktiken — vad kändes naturligt och vad var förvirrande?
 
-[Skriv här]
+[Det mest naturliga var när jag skrev låtarna och längden på dem osv. det förvirrande var själva Db browser for Sqlite, den kanske hade kunnat varit enklare och mer praktiskt att använda än att se så gammaldags ut]
 
 ---
 
 ## Om du hade mer tid — vad hade du lagt till eller gjort annorlunda?
 
-[Skriv här]
+[Om jag hade mer tid så hade jag försökt lära mig det mer hur det sen används i verkligheten/praktiken]
 
 ---
 
