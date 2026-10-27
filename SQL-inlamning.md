@@ -100,7 +100,7 @@ ORDER BY Titel ASC;
 ## 4. Lägg till en ny rad — INSERT
 
 ```sql
---- INSERT INTO Latar (Titel, Langdsekunder, AlbumID) VALUES ('What''s Free', 362, 3); ---
+INSERT INTO Latar (Titel, Langdsekunder, AlbumID) VALUES ('What''s Free', 362, 3);
 
 ```
 
@@ -109,7 +109,7 @@ ORDER BY Titel ASC;
 ## 5. Ta bort en rad — DELETE
 
 ```sql
---- DELETE FROM Latar WHERE Titel = 'What''s Free' AND AlbumID = 3; ---
+DELETE FROM Latar WHERE Titel = 'What''s Free' AND AlbumID = 3; 
 
 ```
 
@@ -118,7 +118,7 @@ ORDER BY Titel ASC;
 ## 6. Uppdatera en rad — UPDATE
 
 ```sql
---- UPDATE Latar SET Langdsekunder = 251 WHERE Titel = 'Traumatized' AND AlbumID = 1; ---
+ UPDATE Latar SET Langdsekunder = 251 WHERE Titel = 'Traumatized' AND AlbumID = 1; 
 
 ```
 
