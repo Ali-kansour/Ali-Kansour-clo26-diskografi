@@ -22,15 +22,12 @@ CREATE TABLE "Album" (
 	"ArtistID"	INTEGER NOT NULL,
 	PRIMARY KEY("id" AUTOINCREMENT),
 	FOREIGN KEY("ArtistID") REFERENCES "Artist"("id")
-)
-```
+
 CREATE TABLE "Artist" (
 	"id"	INTEGER,
 	"Namn"	TEXT NOT NULL,
 	PRIMARY KEY("id" AUTOINCREMENT)
-)
 
----
 CREATE TABLE "Latar" (
 	"id"	INTEGER,
 	"Titel"	TEXT NOT NULL,
@@ -38,6 +35,13 @@ CREATE TABLE "Latar" (
 	"AlbumID"	INTEGER NOT NULL,
 	PRIMARY KEY("id" AUTOINCREMENT),
 	FOREIGN KEY("AlbumID") REFERENCES "Album"("id")
+
+)
+```
+
+)
+
+---
 )
 ## 2. Seeda med data — INSERT
 
