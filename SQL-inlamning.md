@@ -36,7 +36,7 @@ CREATE TABLE "Latar" (
 	PRIMARY KEY("id" AUTOINCREMENT),
 	FOREIGN KEY("AlbumID") REFERENCES "Album"("id")
 
-)
+);
 ```
 
 )
