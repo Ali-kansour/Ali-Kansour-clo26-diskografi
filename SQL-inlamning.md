@@ -48,11 +48,11 @@ CREATE TABLE "Latar" (
 ```sql
 
 INSERT INTO "Artist" ("id","Namn") VALUES (1,'Meek Mill');
-```
+
 INSERT INTO "Album" ("id","Titel","Utgivningsar","ArtistID") VALUES (1,'Dreams and Nightmares',2012,1);
 INSERT INTO "Album" ("id","Titel","Utgivningsar","ArtistID") VALUES (2,'Wins & Losses',2017,1);
 INSERT INTO "Album" ("id","Titel","Utgivningsar","ArtistID") VALUES (3,'Championships',2018,1);
-```
+
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (1,'Dreams and Nightmares',235,1);
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (2,'Traumatized',250,1);
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (3,'Believe It',239,1);
@@ -62,6 +62,9 @@ INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (6,'1942 Flo
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (7,'Intro',213,3);
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (8,'Trauma',238,3);
 INSERT INTO "Latar" ("id","Titel","Langdsekunder","AlbumID") VALUES (9,'Going Bad',180,3);
+
+
+---
 
 
 
